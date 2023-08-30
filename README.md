@@ -1,16 +1,2 @@
-# converter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![convert](https://github.com/synarda/password-generator/assets/67860630/38636a01-f7c8-43b4-b8f6-8ed7fe2ba0ca)
+![convert1](https://github.com/synarda/password-generator/assets/67860630/7d8e05b9-6c3b-4cd1-9a4b-6530cd49ad2f)
